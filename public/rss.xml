@@ -13,9 +13,9 @@
         <pubDate>Mon, 28 Jul 2025 21:49:13 +0800</pubDate>
         <lastBuildDate>Mon, 28 Jul 2025 21:49:13 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/Programing/Rust/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
             <title>rust基本语法</title>
-            <link>https://haoruanwn.github.io/2025/07/28/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+            <link>https://haoruanwn.github.io/2025/07/28/Programing/Rust/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
             <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Mon, 28 Jul 2025 21:49:13 +0800</pubDate>
@@ -249,10 +249,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/%E8%AE%BE%E7%BD%AEvim%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F%E4%B8%BAutf-8/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/SBC/%E8%AE%BE%E7%BD%AEvim%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F%E4%B8%BAutf-8/</guid>
             <title>设置vim编码格式为utf-8</title>
-            <link>https://haoruanwn.github.io/2025/07/28/%E8%AE%BE%E7%BD%AEvim%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F%E4%B8%BAutf-8/</link>
-            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BA-Linux%E5%BC%80%E5%8F%91%E6%9D%BF/" />
+            <link>https://haoruanwn.github.io/2025/07/28/SBC/%E8%AE%BE%E7%BD%AEvim%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F%E4%B8%BAutf-8/</link>
+            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/SBC/" />
             <category term="VIM" scheme="https://haoruanwn.github.io/tags/VIM/" />
             <pubDate>Mon, 28 Jul 2025 21:47:38 +0800</pubDate>
             <description><![CDATA[ &lt;h4 id=&#34;配置-vim-实现永久解决&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-vim-实现永久解决&#34;&gt;#&lt;/a&gt; 配置 Vim 实现永久解决&lt;/h4&gt;
@@ -291,10 +291,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/%E4%BD%BF%E7%94%A8chroot%E5%92%8CQEMU%E8%B0%83%E8%AF%95%E5%BC%80%E5%8F%91%E6%9D%BF%E7%B3%BB%E7%BB%9F/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/SBC/%E4%BD%BF%E7%94%A8chroot%E5%92%8CQEMU%E8%B0%83%E8%AF%95%E5%BC%80%E5%8F%91%E6%9D%BF%E7%B3%BB%E7%BB%9F/</guid>
             <title>使用chroot和QEMU调试开发板系统</title>
-            <link>https://haoruanwn.github.io/2025/07/28/%E4%BD%BF%E7%94%A8chroot%E5%92%8CQEMU%E8%B0%83%E8%AF%95%E5%BC%80%E5%8F%91%E6%9D%BF%E7%B3%BB%E7%BB%9F/</link>
-            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BA-Linux%E5%BC%80%E5%8F%91%E6%9D%BF/" />
+            <link>https://haoruanwn.github.io/2025/07/28/SBC/%E4%BD%BF%E7%94%A8chroot%E5%92%8CQEMU%E8%B0%83%E8%AF%95%E5%BC%80%E5%8F%91%E6%9D%BF%E7%B3%BB%E7%BB%9F/</link>
+            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/SBC/" />
             <category term="rootfs" scheme="https://haoruanwn.github.io/tags/rootfs/" />
             <pubDate>Mon, 28 Jul 2025 21:46:47 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;使用-chroot-和-qemu-调试开发板系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用-chroot-和-qemu-调试开发板系统&#34;&gt;#&lt;/a&gt; 使用 &lt;code&gt;chroot&lt;/code&gt; 和 QEMU 调试开发板系统&lt;/h1&gt;
@@ -613,10 +613,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/NTP%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/SBC/NTP%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE/</guid>
             <title>NTP与系统时间设置</title>
-            <link>https://haoruanwn.github.io/2025/07/28/NTP%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE/</link>
-            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BA-Linux%E5%BC%80%E5%8F%91%E6%9D%BF/" />
+            <link>https://haoruanwn.github.io/2025/07/28/SBC/NTP%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE/</link>
+            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/SBC/" />
             <category term="系统配置" scheme="https://haoruanwn.github.io/tags/%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE/" />
             <pubDate>Mon, 28 Jul 2025 21:45:22 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-安装基础服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-安装基础服务&#34;&gt;#&lt;/a&gt; 一、安装基础服务&lt;/h2&gt;
@@ -648,10 +648,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/systemd%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/SBC/systemd%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</guid>
             <title>systemd设置开机自启</title>
-            <link>https://haoruanwn.github.io/2025/07/28/systemd%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</link>
-            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BA-Linux%E5%BC%80%E5%8F%91%E6%9D%BF/" />
+            <link>https://haoruanwn.github.io/2025/07/28/SBC/systemd%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</link>
+            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/SBC/" />
             <category term="系统配置" scheme="https://haoruanwn.github.io/tags/%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE/" />
             <pubDate>Mon, 28 Jul 2025 21:43:52 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;ubuntudebian-使用-systemd-设置开机自启服务快速指南&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ubuntudebian-使用-systemd-设置开机自启服务快速指南&#34;&gt;#&lt;/a&gt; &lt;strong&gt;Ubuntu/Debian 使用 &lt;code&gt;systemd&lt;/code&gt; 设置开机自启服务快速指南&lt;/strong&gt;&lt;/h3&gt;
@@ -746,10 +746,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/%E5%BC%80%E5%8F%91%E6%9D%BF%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/SBC/%E5%BC%80%E5%8F%91%E6%9D%BF%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/</guid>
             <title>开发板网络配置</title>
-            <link>https://haoruanwn.github.io/2025/07/28/%E5%BC%80%E5%8F%91%E6%9D%BF%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/</link>
-            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BA-Linux%E5%BC%80%E5%8F%91%E6%9D%BF/" />
+            <link>https://haoruanwn.github.io/2025/07/28/SBC/%E5%BC%80%E5%8F%91%E6%9D%BF%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/</link>
+            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/SBC/" />
             <category term="网络" scheme="https://haoruanwn.github.io/tags/%E7%BD%91%E7%BB%9C/" />
             <pubDate>Mon, 28 Jul 2025 21:43:22 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;使用-nmcli-管理网络连接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用-nmcli-管理网络连接&#34;&gt;#&lt;/a&gt; 使用 &lt;code&gt;nmcli&lt;/code&gt; 管理网络连接&lt;/h1&gt;
@@ -904,9 +904,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/opencv%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BAwindows/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BAwindows/</guid>
             <title>opencv环境搭建windows</title>
-            <link>https://haoruanwn.github.io/2025/07/28/opencv%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BAwindows/</link>
+            <link>https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BAwindows/</link>
             <category term="OpenCV" scheme="https://haoruanwn.github.io/categories/OpenCV/" />
             <pubDate>Mon, 28 Jul 2025 21:39:04 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h1&gt;
@@ -977,9 +977,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/opencv%E6%96%87%E4%BB%B6%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E6%96%87%E4%BB%B6%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/</guid>
             <title>opencv文件输入输出</title>
-            <link>https://haoruanwn.github.io/2025/07/28/opencv%E6%96%87%E4%BB%B6%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/</link>
+            <link>https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E6%96%87%E4%BB%B6%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/</link>
             <category term="OpenCV" scheme="https://haoruanwn.github.io/categories/OpenCV/" />
             <pubDate>Mon, 28 Jul 2025 21:38:45 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-图像的读取与显示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-图像的读取与显示&#34;&gt;#&lt;/a&gt; 一、图像的读取与显示&lt;/h2&gt;
@@ -1314,9 +1314,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/opencv%E5%9B%BE%E5%BD%A2%E6%96%87%E5%AD%97%E7%BB%98%E5%88%B6/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E5%9B%BE%E5%BD%A2%E6%96%87%E5%AD%97%E7%BB%98%E5%88%B6/</guid>
             <title>opencv图形文字绘制</title>
-            <link>https://haoruanwn.github.io/2025/07/28/opencv%E5%9B%BE%E5%BD%A2%E6%96%87%E5%AD%97%E7%BB%98%E5%88%B6/</link>
+            <link>https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E5%9B%BE%E5%BD%A2%E6%96%87%E5%AD%97%E7%BB%98%E5%88%B6/</link>
             <category term="OpenCV" scheme="https://haoruanwn.github.io/categories/OpenCV/" />
             <pubDate>Mon, 28 Jul 2025 21:38:38 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-绘制矩形&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-绘制矩形&#34;&gt;#&lt;/a&gt; 一、绘制矩形&lt;/h2&gt;
@@ -1908,9 +1908,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/opencv%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%A8%A1%E5%9D%97/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%A8%A1%E5%9D%97/</guid>
             <title>opencv图像处理模块</title>
-            <link>https://haoruanwn.github.io/2025/07/28/opencv%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%A8%A1%E5%9D%97/</link>
+            <link>https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%A8%A1%E5%9D%97/</link>
             <category term="OpenCV" scheme="https://haoruanwn.github.io/categories/OpenCV/" />
             <pubDate>Mon, 28 Jul 2025 21:38:28 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-颜色空间变换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-颜色空间变换&#34;&gt;#&lt;/a&gt; 一、颜色空间变换&lt;/h2&gt;
@@ -2131,9 +2131,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/opencv%E4%BA%8B%E4%BB%B6/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E4%BA%8B%E4%BB%B6/</guid>
             <title>opencv事件</title>
-            <link>https://haoruanwn.github.io/2025/07/28/opencv%E4%BA%8B%E4%BB%B6/</link>
+            <link>https://haoruanwn.github.io/2025/07/28/OpenCV/opencv%E4%BA%8B%E4%BB%B6/</link>
             <category term="OpenCV" scheme="https://haoruanwn.github.io/categories/OpenCV/" />
             <pubDate>Mon, 28 Jul 2025 21:38:01 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-鼠标事件的响应&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-鼠标事件的响应&#34;&gt;#&lt;/a&gt; 一、鼠标事件的响应&lt;/h2&gt;
@@ -2323,10 +2323,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91STM32/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/MCU/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91STM32/</guid>
             <title>使用开源工具链开发STM32</title>
-            <link>https://haoruanwn.github.io/2025/07/28/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91STM32/</link>
-            <category term="MCU/单片机/微控制器" scheme="https://haoruanwn.github.io/categories/MCU-%E5%8D%95%E7%89%87%E6%9C%BA-%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8/" />
+            <link>https://haoruanwn.github.io/2025/07/28/MCU/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91STM32/</link>
+            <category term="MCU/单片机/微控制器" scheme="https://haoruanwn.github.io/categories/MCU/" />
             <category term="STM32" scheme="https://haoruanwn.github.io/tags/STM32/" />
             <pubDate>Mon, 28 Jul 2025 21:34:59 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;使用的工具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用的工具&#34;&gt;#&lt;/a&gt; 使用的工具&lt;/h2&gt;
@@ -2602,10 +2602,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/USBIPD%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/ENV_CONFIG/USBIPD%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
             <title>USBIPD的使用</title>
-            <link>https://haoruanwn.github.io/2025/07/27/USBIPD%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
-            <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BA-Linux%E5%BC%80%E5%8F%91%E6%9D%BF/" />
+            <link>https://haoruanwn.github.io/2025/07/27/ENV_CONFIG/USBIPD%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+            <category term="环境配置&amp;工具使用" scheme="https://haoruanwn.github.io/categories/ENV-CONFIG/" />
             <category term="USB" scheme="https://haoruanwn.github.io/tags/USB/" />
             <pubDate>Sun, 27 Jul 2025 22:49:22 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;使用usbipd将usb设备共享给wsl2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用usbipd将usb设备共享给wsl2&#34;&gt;#&lt;/a&gt; 使用USBIPD将USB设备共享给WSL2&lt;/h3&gt;
@@ -2656,10 +2656,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/%E4%BD%BF%E7%94%A8pyocd%E7%83%A7%E5%BD%95%E5%92%8C%E8%B0%83%E8%AF%95MCU/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/MCU/%E4%BD%BF%E7%94%A8pyocd%E7%83%A7%E5%BD%95%E5%92%8C%E8%B0%83%E8%AF%95MCU/</guid>
             <title>使用pyocd烧录和调试MCU</title>
-            <link>https://haoruanwn.github.io/2025/07/27/%E4%BD%BF%E7%94%A8pyocd%E7%83%A7%E5%BD%95%E5%92%8C%E8%B0%83%E8%AF%95MCU/</link>
-            <category term="MCU/单片机/微控制器" scheme="https://haoruanwn.github.io/categories/MCU-%E5%8D%95%E7%89%87%E6%9C%BA-%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8/" />
+            <link>https://haoruanwn.github.io/2025/07/27/MCU/%E4%BD%BF%E7%94%A8pyocd%E7%83%A7%E5%BD%95%E5%92%8C%E8%B0%83%E8%AF%95MCU/</link>
+            <category term="MCU/单片机/微控制器" scheme="https://haoruanwn.github.io/categories/MCU/" />
             <category term="pyocd/openocd" scheme="https://haoruanwn.github.io/tags/pyocd-openocd/" />
             <pubDate>Sun, 27 Jul 2025 21:45:49 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
@@ -2793,10 +2793,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/python%E8%84%9A%E6%9C%AC%E4%BB%8E%E5%98%89%E7%AB%8B%E5%88%9B%E5%AF%BC%E5%85%A5%E5%85%83%E5%99%A8%E4%BB%B6%E5%88%B0kicad/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/ENV_CONFIG/python%E8%84%9A%E6%9C%AC%E4%BB%8E%E5%98%89%E7%AB%8B%E5%88%9B%E5%AF%BC%E5%85%A5%E5%85%83%E5%99%A8%E4%BB%B6%E5%88%B0kicad/</guid>
             <title>python脚本从嘉立创导入元器件到kicad</title>
-            <link>https://haoruanwn.github.io/2025/07/27/python%E8%84%9A%E6%9C%AC%E4%BB%8E%E5%98%89%E7%AB%8B%E5%88%9B%E5%AF%BC%E5%85%A5%E5%85%83%E5%99%A8%E4%BB%B6%E5%88%B0kicad/</link>
-            <category term="环境配置&amp;工具使用" scheme="https://haoruanwn.github.io/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE-%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/" />
+            <link>https://haoruanwn.github.io/2025/07/27/ENV_CONFIG/python%E8%84%9A%E6%9C%AC%E4%BB%8E%E5%98%89%E7%AB%8B%E5%88%9B%E5%AF%BC%E5%85%A5%E5%85%83%E5%99%A8%E4%BB%B6%E5%88%B0kicad/</link>
+            <category term="环境配置&amp;工具使用" scheme="https://haoruanwn.github.io/categories/ENV-CONFIG/" />
             <category term="KICAD" scheme="https://haoruanwn.github.io/tags/KICAD/" />
             <pubDate>Sun, 27 Jul 2025 21:43:55 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-windows中miniconda的安装与使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-windows中miniconda的安装与使用&#34;&gt;#&lt;/a&gt; 一、Windows中miniconda的安装与使用&lt;/h2&gt;
@@ -2841,10 +2841,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/27/ENV_CONFIG/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</guid>
             <title>Git 常用命令总结</title>
-            <link>https://haoruanwn.github.io/2025/07/27/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</link>
-            <category term="环境配置&amp;工具使用" scheme="https://haoruanwn.github.io/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE-%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/" />
+            <link>https://haoruanwn.github.io/2025/07/27/ENV_CONFIG/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</link>
+            <category term="环境配置&amp;工具使用" scheme="https://haoruanwn.github.io/categories/ENV-CONFIG/" />
             <category term="Git/Github" scheme="https://haoruanwn.github.io/tags/Git-Github/" />
             <pubDate>Sun, 27 Jul 2025 17:16:35 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;git-常用命令笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git-常用命令笔记&#34;&gt;#&lt;/a&gt; Git 常用命令笔记&lt;/h1&gt;

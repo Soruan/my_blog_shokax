@@ -66,6 +66,13 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  MCU/单片机/微控制器: MCU
+  环境配置&工具使用: ENV_CONFIG
+  OpenCV: OpenCV
+  Programing: Programing
+  单板计算机/Linux开发板: SBC
+  Rust: Rust
+  C++: C++
 tag_map:
 
 # Metadata elements
