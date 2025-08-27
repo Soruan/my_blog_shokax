@@ -2,7 +2,7 @@
 title: Rust中的Slice
 date: 2025-08-20 23:07:41
 tags: Rust
-categories: Programing
+categories: Programming
 ---
 # Rust 中的字符串切片 (String Slice)
 

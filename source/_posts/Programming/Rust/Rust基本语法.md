@@ -2,7 +2,7 @@
 title: rust基本语法
 date: 2025-07-28 21:49:13
 tags: Rust
-categories: Programing
+categories: Programming
 ---
 # rust 基本语法
 

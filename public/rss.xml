@@ -13,10 +13,10 @@
         <pubDate>Wed, 27 Aug 2025 21:54:39 +0800</pubDate>
         <lastBuildDate>Wed, 27 Aug 2025 21:54:39 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/27/Trait%E4%B8%8E%E6%B3%9B%E5%9E%8B%E7%BA%A6%E6%9D%9F%EF%BC%88%E4%BA%8C%EF%BC%89/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/27/Programming/Rust/Trait%E4%B8%8E%E6%B3%9B%E5%9E%8B%E7%BA%A6%E6%9D%9F%EF%BC%88%E4%BA%8C%EF%BC%89/</guid>
             <title>Trait与泛型约束（二）</title>
-            <link>https://haoruanwn.github.io/2025/08/27/Trait%E4%B8%8E%E6%B3%9B%E5%9E%8B%E7%BA%A6%E6%9D%9F%EF%BC%88%E4%BA%8C%EF%BC%89/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/08/27/Programming/Rust/Trait%E4%B8%8E%E6%B3%9B%E5%9E%8B%E7%BA%A6%E6%9D%9F%EF%BC%88%E4%BA%8C%EF%BC%89/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Wed, 27 Aug 2025 21:54:39 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;trait-与泛型约束trait-bounds&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#trait-与泛型约束trait-bounds&#34;&gt;#&lt;/a&gt; Trait 与泛型约束：Trait Bounds&lt;/h1&gt;
@@ -170,10 +170,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/27/Trait%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/27/Programming/Rust/Trait%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
             <title>Trait的基本使用（一）</title>
-            <link>https://haoruanwn.github.io/2025/08/27/Trait%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/08/27/Programming/Rust/Trait%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Wed, 27 Aug 2025 21:54:13 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-trait-的本质定义共享行为&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-trait-的本质定义共享行为&#34;&gt;#&lt;/a&gt; 一、&lt;strong&gt;Trait 的本质：定义共享行为&lt;/strong&gt;&lt;/h2&gt;
@@ -431,9 +431,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/24/%E5%AF%B9CPU%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/24/Linux/%E5%AF%B9CPU%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
             <title>对CPU高速缓存的理解</title>
-            <link>https://haoruanwn.github.io/2025/08/24/%E5%AF%B9CPU%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E7%90%86%E8%A7%A3/</link>
+            <link>https://haoruanwn.github.io/2025/08/24/Linux/%E5%AF%B9CPU%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E7%90%86%E8%A7%A3/</link>
             <category term="Linux" scheme="https://haoruanwn.github.io/categories/Linux/" />
             <category term="CPU缓存" scheme="https://haoruanwn.github.io/tags/CPU%E7%BC%93%E5%AD%98/" />
             <pubDate>Sun, 24 Aug 2025 23:38:07 +0800</pubDate>
@@ -529,9 +529,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/24/%E5%AF%B9Linux%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/24/Linux/%E5%AF%B9Linux%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
             <title>对Linux任务调度的理解</title>
-            <link>https://haoruanwn.github.io/2025/08/24/%E5%AF%B9Linux%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%9A%84%E7%90%86%E8%A7%A3/</link>
+            <link>https://haoruanwn.github.io/2025/08/24/Linux/%E5%AF%B9Linux%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%9A%84%E7%90%86%E8%A7%A3/</link>
             <category term="Linux" scheme="https://haoruanwn.github.io/categories/Linux/" />
             <category term="任务调度" scheme="https://haoruanwn.github.io/tags/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/" />
             <pubDate>Sun, 24 Aug 2025 23:13:29 +0800</pubDate>
@@ -615,9 +615,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/24/%E8%B0%83%E8%AF%95USB%E6%91%84%E5%83%8F%E5%A4%B4/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/24/ENV_CONFIG/%E8%B0%83%E8%AF%95USB%E6%91%84%E5%83%8F%E5%A4%B4/</guid>
             <title>调试USB摄像头</title>
-            <link>https://haoruanwn.github.io/2025/08/24/%E8%B0%83%E8%AF%95USB%E6%91%84%E5%83%8F%E5%A4%B4/</link>
+            <link>https://haoruanwn.github.io/2025/08/24/ENV_CONFIG/%E8%B0%83%E8%AF%95USB%E6%91%84%E5%83%8F%E5%A4%B4/</link>
             <category term="单板计算机/Linux开发板" scheme="https://haoruanwn.github.io/categories/SBC/" />
             <category term="音视频" scheme="https://haoruanwn.github.io/tags/%E9%9F%B3%E8%A7%86%E9%A2%91/" />
             <pubDate>Sun, 24 Aug 2025 20:21:57 +0800</pubDate>
@@ -843,9 +843,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/22/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B9%B6%E8%BF%90%E8%A1%8CVivado%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/22/ENV_CONFIG/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B9%B6%E8%BF%90%E8%A1%8CVivado%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6/</guid>
             <title>使用Docker安装并运行Vivado开发套件</title>
-            <link>https://haoruanwn.github.io/2025/08/22/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B9%B6%E8%BF%90%E8%A1%8CVivado%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6/</link>
+            <link>https://haoruanwn.github.io/2025/08/22/ENV_CONFIG/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B9%B6%E8%BF%90%E8%A1%8CVivado%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6/</link>
             <category term="FPGA/ZYNQ" scheme="https://haoruanwn.github.io/categories/FPGA-ZYNQ/" />
             <category term="Vivado" scheme="https://haoruanwn.github.io/tags/Vivado/" />
             <pubDate>Fri, 22 Aug 2025 00:06:40 +0800</pubDate>
@@ -920,10 +920,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/20/Programing/Rust/Rust%E4%B8%AD%E7%9A%84Enum/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/20/Programming/Rust/Rust%E4%B8%AD%E7%9A%84Enum/</guid>
             <title>Rust中的Enum</title>
-            <link>https://haoruanwn.github.io/2025/08/20/Programing/Rust/Rust%E4%B8%AD%E7%9A%84Enum/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/08/20/Programming/Rust/Rust%E4%B8%AD%E7%9A%84Enum/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Wed, 20 Aug 2025 23:08:51 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;rust-中的枚举-enum&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rust-中的枚举-enum&#34;&gt;#&lt;/a&gt; Rust 中的枚举 (Enum)&lt;/h1&gt;
@@ -1000,10 +1000,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/20/Programing/Rust/Rust%E4%B8%AD%E7%9A%84Struct/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/20/Programming/Rust/Rust%E4%B8%AD%E7%9A%84Struct/</guid>
             <title>Rust中的Struct</title>
-            <link>https://haoruanwn.github.io/2025/08/20/Programing/Rust/Rust%E4%B8%AD%E7%9A%84Struct/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/08/20/Programming/Rust/Rust%E4%B8%AD%E7%9A%84Struct/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Wed, 20 Aug 2025 23:08:30 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;rust-中的结构体-struct&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rust-中的结构体-struct&#34;&gt;#&lt;/a&gt; Rust 中的结构体 (Struct)&lt;/h1&gt;
@@ -1118,10 +1118,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/20/Programing/Rust/Rust%E4%B8%AD%E7%9A%84Slice/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/20/Programming/Rust/Rust%E4%B8%AD%E7%9A%84Slice/</guid>
             <title>Rust中的Slice</title>
-            <link>https://haoruanwn.github.io/2025/08/20/Programing/Rust/Rust%E4%B8%AD%E7%9A%84Slice/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/08/20/Programming/Rust/Rust%E4%B8%AD%E7%9A%84Slice/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Wed, 20 Aug 2025 23:07:41 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;rust-中的字符串切片-string-slice&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rust-中的字符串切片-string-slice&#34;&gt;#&lt;/a&gt; Rust 中的字符串切片 (String Slice)&lt;/h1&gt;
@@ -1201,9 +1201,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/03/%E4%BD%BF%E7%94%A8pyocd%E8%B0%83%E7%94%A8FLM%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%A4%96%E9%83%A8%E4%B8%8B%E8%BD%BD%E7%AE%97%E6%B3%95/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/03/ENV_CONFIG/%E4%BD%BF%E7%94%A8pyocd%E8%B0%83%E7%94%A8FLM%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%A4%96%E9%83%A8%E4%B8%8B%E8%BD%BD%E7%AE%97%E6%B3%95/</guid>
             <title>使用pyocd调用FLM格式的外部下载算法</title>
-            <link>https://haoruanwn.github.io/2025/08/03/%E4%BD%BF%E7%94%A8pyocd%E8%B0%83%E7%94%A8FLM%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%A4%96%E9%83%A8%E4%B8%8B%E8%BD%BD%E7%AE%97%E6%B3%95/</link>
+            <link>https://haoruanwn.github.io/2025/08/03/ENV_CONFIG/%E4%BD%BF%E7%94%A8pyocd%E8%B0%83%E7%94%A8FLM%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%A4%96%E9%83%A8%E4%B8%8B%E8%BD%BD%E7%AE%97%E6%B3%95/</link>
             <category term="MCU/单片机/微控制器" scheme="https://haoruanwn.github.io/categories/MCU/" />
             <category term="pyocd/openocd" scheme="https://haoruanwn.github.io/tags/pyocd-openocd/" />
             <pubDate>Sun, 03 Aug 2025 22:08:05 +0800</pubDate>
@@ -1375,9 +1375,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/02/%E4%BD%BF%E7%94%A8Docker%E7%BC%96%E8%AF%91OpenWrt/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/08/02/ENV_CONFIG/%E4%BD%BF%E7%94%A8Docker%E7%BC%96%E8%AF%91OpenWrt/</guid>
             <title>使用Docker编译OpenWrt</title>
-            <link>https://haoruanwn.github.io/2025/08/02/%E4%BD%BF%E7%94%A8Docker%E7%BC%96%E8%AF%91OpenWrt/</link>
+            <link>https://haoruanwn.github.io/2025/08/02/ENV_CONFIG/%E4%BD%BF%E7%94%A8Docker%E7%BC%96%E8%AF%91OpenWrt/</link>
             <category term="OpenWrt" scheme="https://haoruanwn.github.io/categories/OpenWrt/" />
             <pubDate>Sat, 02 Aug 2025 01:11:17 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;使用docker编译openwrt&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用docker编译openwrt&#34;&gt;#&lt;/a&gt; 使用Docker编译OpenWrt&lt;/h1&gt;
@@ -1547,10 +1547,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/31/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%BE%9D%E8%B5%96%E5%92%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BA%93/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/31/Programming/C++/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%BE%9D%E8%B5%96%E5%92%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BA%93/</guid>
             <title>CMake使用示例：寻找依赖和自定义库</title>
-            <link>https://haoruanwn.github.io/2025/07/31/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%BE%9D%E8%B5%96%E5%92%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BA%93/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/07/31/Programming/C++/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%BE%9D%E8%B5%96%E5%92%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BA%93/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="CMake" scheme="https://haoruanwn.github.io/tags/CMake/" />
             <pubDate>Thu, 31 Jul 2025 22:09:44 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-添加第三方依赖示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-添加第三方依赖示例&#34;&gt;#&lt;/a&gt; 一、添加第三方依赖示例&lt;/h2&gt;
@@ -1811,10 +1811,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/31/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/31/Programming/C++/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE/</guid>
             <title>CMake使用示例：安装设置</title>
-            <link>https://haoruanwn.github.io/2025/07/31/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/07/31/Programming/C++/CMake%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B%EF%BC%9A%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="CMake" scheme="https://haoruanwn.github.io/tags/CMake/" />
             <pubDate>Thu, 31 Jul 2025 22:08:33 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h1&gt;
@@ -1939,10 +1939,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/Programing/Rust/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+            <guid isPermalink="true">https://haoruanwn.github.io/2025/07/28/Programming/Rust/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
             <title>rust基本语法</title>
-            <link>https://haoruanwn.github.io/2025/07/28/Programing/Rust/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
-            <category term="Programing" scheme="https://haoruanwn.github.io/categories/Programing/" />
+            <link>https://haoruanwn.github.io/2025/07/28/Programming/Rust/Rust%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+            <category term="Programming" scheme="https://haoruanwn.github.io/categories/Programming/" />
             <category term="Rust" scheme="https://haoruanwn.github.io/tags/Rust/" />
             <pubDate>Mon, 28 Jul 2025 21:49:13 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;rust-基本语法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rust-基本语法&#34;&gt;#&lt;/a&gt; rust 基本语法&lt;/h1&gt;

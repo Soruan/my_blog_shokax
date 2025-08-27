@@ -2,7 +2,7 @@
 title: Trait的基本使用（一）
 date: 2025-08-27 21:54:13
 tags: Rust
-categories: Programing
+categories: Programming
 ---
 ## 一、**Trait 的本质：定义共享行为**
    - **核心类比 (C++)**: `trait` ≈ 抽象基类 (Abstract Base Class) / 纯虚接口 (Interface)。

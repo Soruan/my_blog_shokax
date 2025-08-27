@@ -2,7 +2,7 @@
 title: Rust中的Enum
 date: 2025-08-20 23:08:51
 tags: Rust
-categories: Programing
+categories: Programming
 ---
 # Rust 中的枚举 (Enum)
 

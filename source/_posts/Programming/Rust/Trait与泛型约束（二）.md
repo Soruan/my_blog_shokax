@@ -2,7 +2,7 @@
 title: Trait与泛型约束（二）
 date: 2025-08-27 21:54:39
 tags: Rust
-categories: Programing
+categories: Programming
 ---
 # Trait 与泛型约束：Trait Bounds
 

@@ -2,7 +2,7 @@
 title: CMake使用示例：安装设置
 date: 2025-07-31 22:08:33
 tags: CMake
-categories: Programing
+categories: Programming
 ---
 # 说明
 

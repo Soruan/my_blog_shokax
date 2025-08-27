@@ -2,7 +2,7 @@
 title: CMake使用示例：寻找依赖和自定义库
 date: 2025-07-31 22:09:44
 tags: CMake
-categories: Programing
+categories: Programming
 ---
 ## 一、添加第三方依赖示例
 

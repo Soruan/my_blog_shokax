@@ -2,7 +2,7 @@
 title: Rust中的Struct
 date: 2025-08-20 23:08:30
 tags: Rust
-categories: Programing
+categories: Programming
 ---
 # Rust 中的结构体 (Struct)
 
